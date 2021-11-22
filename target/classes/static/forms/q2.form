@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "text": "# Please Enter World's Longest River Name...",
+      "type": "text",
+      "id": "Field_0cerqwj"
+    },
+    {
+      "label": "Write Answer",
+      "type": "textfield",
+      "id": "Field_1klft54",
+      "key": "river",
+      "validate": {
+        "minLength": 3,
+        "maxLength": 15
+      }
+    }
+  ],
+  "type": "default",
+  "id": "river"
+}
