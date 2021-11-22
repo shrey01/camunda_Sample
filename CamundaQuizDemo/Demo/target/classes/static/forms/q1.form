@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "text": "# Please Enter India's Capital....",
+      "type": "text",
+      "id": "Field_0cerqwj"
+    },
+    {
+      "label": "Write Answer",
+      "type": "textfield",
+      "id": "Field_0u4alsp",
+      "key": "capital",
+      "validate": {
+        "minLength": 3,
+        "maxLength": 15
+      }
+    }
+  ],
+  "type": "default",
+  "id": "capital"
+}
